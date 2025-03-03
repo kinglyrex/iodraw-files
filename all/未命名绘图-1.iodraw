@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Lahc8cQugyGDqaHzDeRk">
-    <mxGraphModel dx="1774" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2363" dy="1089" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,130 @@
         </mxCell>
         <mxCell id="XFHZmbCfwZrgIATAveA4-63" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=48;rotation=-175;" parent="1" vertex="1">
           <mxGeometry x="238" y="357.5" width="342.79" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-1" value="输出层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1416" y="927" width="248" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-2" value="核心处理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="277" y="609" width="1387" height="298" as="geometry" />
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-3" value="验证优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1167" y="629" width="472" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-4" value="知识关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="623" y="699" width="494" height="189" as="geometry" />
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-5" value="智能感知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="302" y="629" width="271" height="249" as="geometry" />
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-6" value="输入层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="659" width="207" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-7" value="非结构化文本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="46" y="694" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-8" value="人工交互接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="794" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-9" value="标注自然语言解析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="327" y="694" width="221" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-10" value="交互式对话引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="351" y="794" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-11" value="知识图谱三维结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="648" y="784" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-12" value="图神经网络推理路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="887" y="803" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-13" value="形式化验证引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1192" y="803" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-14" value="反馈学习环路" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1449" y="664" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-15" value="结构化需求体系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1441" y="962" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-16" value="验证报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="1061" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-7" target="Ha_c3DqPPXDAvbG9Cfsr-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-8" target="Ha_c3DqPPXDAvbG9Cfsr-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0.24;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-9" target="Ha_c3DqPPXDAvbG9Cfsr-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="573" y="749" />
+              <mxPoint x="623" y="749" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.65;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-10" target="Ha_c3DqPPXDAvbG9Cfsr-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="623" y="818" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-11" target="Ha_c3DqPPXDAvbG9Cfsr-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="862" y="828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-12" target="Ha_c3DqPPXDAvbG9Cfsr-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0.01;entryX=0;entryY=0.07;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-13" target="Ha_c3DqPPXDAvbG9Cfsr-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1391" y="659" />
+              <mxPoint x="1416" y="659" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.4;entryY=0.01;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-13" target="Ha_c3DqPPXDAvbG9Cfsr-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1416" y="828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.4;entryY=0.01;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-13" target="Ha_c3DqPPXDAvbG9Cfsr-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1391" y="858" />
+              <mxPoint x="1416" y="858" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.36;entryX=0.88;entryY=0.01;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-14" target="Ha_c3DqPPXDAvbG9Cfsr-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1416" y="679" />
+              <mxPoint x="573" y="679" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1.01;entryX=0.76;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-14" target="Ha_c3DqPPXDAvbG9Cfsr-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1416" y="749" />
+              <mxPoint x="862" y="749" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
