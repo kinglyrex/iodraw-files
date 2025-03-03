@@ -487,7 +487,12 @@
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-106" style="edgeStyle=orthogonalEdgeStyle;shape=arrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-67">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="305.8333333333335" y="4078.333333333334" as="targetPoint" />
+            <mxPoint x="321" y="3973" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="289" y="4055" />
+              <mxPoint x="322" y="4055" />
+              <mxPoint x="322" y="3973" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-67" value="伴飞数据匹配与比对" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
