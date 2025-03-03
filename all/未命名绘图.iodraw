@@ -46,8 +46,8 @@
         <mxCell id="XFHZmbCfwZrgIATAveA4-52" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;需求文档生成&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;拓扑优化设计&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;工艺路径生成&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;创新型任务规划&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="227" width="120" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="XFHZmbCfwZrgIATAveA4-55" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;rotation=29;" vertex="1" parent="1">
-          <mxGeometry x="171" y="212" width="31" height="117" as="geometry" />
+        <mxCell id="XFHZmbCfwZrgIATAveA4-55" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;rotation=60;" vertex="1" parent="1">
+          <mxGeometry x="240.2" y="58.49" width="131.81" height="331.51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
