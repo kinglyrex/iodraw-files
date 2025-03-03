@@ -205,8 +205,8 @@
             <mxRectangle width="146" height="78" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-114" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2164" width="100" height="70" as="geometry" />
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-114" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.74;dx=20;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2164" width="88" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
