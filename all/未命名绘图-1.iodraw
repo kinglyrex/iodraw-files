@@ -142,6 +142,9 @@
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-72" value="结构化需求体系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1152.5" y="1787" width="173" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-85" value="知识关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="781" y="1770.5" width="237" height="189" as="geometry" />
+        </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-73" value="验证报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1176.5" y="1891" width="125" height="49" as="geometry" />
         </mxCell>
