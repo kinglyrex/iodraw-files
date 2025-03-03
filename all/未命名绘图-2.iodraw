@@ -286,20 +286,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LCgk7WM_7pvtNSVYmZdA-18" value="" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.68;entryX=-Infinity;entryY=-Infinity;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-4" target="LCgk7WM_7pvtNSVYmZdA-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="798" y="2278" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LCgk7WM_7pvtNSVYmZdA-19" value="" style="curved=1;startArrow=none;endArrow=none;exitX=Infinity;exitY=-Infinity;entryX=NaN;entryY=Infinity;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-12" target="LCgk7WM_7pvtNSVYmZdA-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="926" y="2278" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-6" target="LCgk7WM_7pvtNSVYmZdA-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -325,6 +311,173 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-10" target="LCgk7WM_7pvtNSVYmZdA-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-26" value="数据分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="3823" width="1195" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-27" value="分析结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="3674" width="1195" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-28" value="诊断分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="89" y="3366" width="1001" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-29" value="数据处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1109" y="3143" width="284" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-30" value="设施" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1146" y="2533" width="196" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-31" value="设施" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1198" y="2558" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-32" value="遥测数据" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1196" y="2657" width="96" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-33" value="上行指令" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1187" y="2756" width="114" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-34" value="模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1198" y="2920" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-35" value="仿真数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="3019" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-36" value="伴飞数据解析与预处理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1148" y="3168" width="192" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-37" value="伴飞数据匹配与比对" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1156" y="3267" width="176" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-38" value="数字装置参数校准与演化" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1150" y="3400" width="208" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-39" value="数字伴飞异常状态诊断与分析" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="506" y="3391" width="224" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-40" value="数字伴飞规律分析与风险预警" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="506" y="3533" width="224" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-41" value="伴飞数据瞬时状态判识" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="71" y="3699" width="222" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-42" value="伴飞数据的异常特征提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="351" y="3699" width="238" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-43" value="巡天光学设施故障图谱构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="639" y="3699" width="253" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-44" value="数字装置状态伴飞故障诊断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="942" y="3699" width="254" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-45" value="伴飞数据关键影响因素分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="3848" width="254" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-46" value="伴飞数据状态趋势分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="359" y="3848" width="222" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-47" value="数字装置状态伴飞健康评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="639" y="3848" width="253" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-48" value="数字装置状态伴飞预警" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="958" y="3848" width="222" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-31" target="LCgk7WM_7pvtNSVYmZdA-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-32" target="LCgk7WM_7pvtNSVYmZdA-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-33" target="LCgk7WM_7pvtNSVYmZdA-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-34" target="LCgk7WM_7pvtNSVYmZdA-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-35" target="LCgk7WM_7pvtNSVYmZdA-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-36" target="LCgk7WM_7pvtNSVYmZdA-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-37" target="LCgk7WM_7pvtNSVYmZdA-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1254" y="3341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=1;entryX=1;entryY=0.33;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-37" target="LCgk7WM_7pvtNSVYmZdA-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1185" y="3341" />
+              <mxPoint x="1185" y="3366" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-39" target="LCgk7WM_7pvtNSVYmZdA-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-40" target="LCgk7WM_7pvtNSVYmZdA-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="182" y="3624" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-40" target="LCgk7WM_7pvtNSVYmZdA-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="3624" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-40" target="LCgk7WM_7pvtNSVYmZdA-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="766" y="3624" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-40" target="LCgk7WM_7pvtNSVYmZdA-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1069" y="3624" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-41" target="LCgk7WM_7pvtNSVYmZdA-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-42" target="LCgk7WM_7pvtNSVYmZdA-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-43" target="LCgk7WM_7pvtNSVYmZdA-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-44" target="LCgk7WM_7pvtNSVYmZdA-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
