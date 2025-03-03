@@ -491,7 +491,7 @@
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-68" value="数字装置参数校准与演化" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;strokeColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="439" y="4089.5" width="227" height="227" as="geometry" />
         </mxCell>
-        <mxCell id="LCgk7WM_7pvtNSVYmZdA-69" value="数字伴飞异常状态诊断与分析" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;fontSize=16;strokeColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-69" value="数字伴飞异常状态诊断与分析" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;fontSize=18;strokeColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="434.75" y="4379" width="235.5" height="52" as="geometry" />
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-70" value="数字伴飞规律分析与风险预警" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=18;strokeColor=#FFE599;" vertex="1" parent="1">
@@ -527,7 +527,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LCgk7WM_7pvtNSVYmZdA-116" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;主模块&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-116" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;主模块&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="23" y="4004" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-118" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
