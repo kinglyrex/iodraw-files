@@ -106,9 +106,6 @@
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-59" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="276" y="1727" width="800" height="267" as="geometry" />
         </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-60" value="验证优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="744" y="1775" width="226" height="188" as="geometry" />
-        </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-61" value="知识关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="522" y="1773" width="208" height="189" as="geometry" />
         </mxCell>
@@ -137,7 +134,7 @@
           <mxGeometry x="529" y="1913" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-70" value="形式化验证引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1191" y="1900" width="174" height="49" as="geometry" />
+          <mxGeometry x="768" y="1916" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-71" value="反馈学习环路" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1448" y="1761" width="158" height="49" as="geometry" />
