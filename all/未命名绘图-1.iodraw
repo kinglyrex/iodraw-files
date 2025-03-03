@@ -7,7 +7,7 @@
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-59" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="276" y="1727" width="800" height="267" as="geometry" />
         </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-85" value="知识关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-85" value="模型验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="781" y="1770.5" width="237" height="189" as="geometry" />
         </mxCell>
         <mxCell id="F7yd8QviotQ9aDXyOdrz-1" value="" style="endArrow=classic;html=1;rounded=0;startSize=6;endSize=3;" parent="1" edge="1">
