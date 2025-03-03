@@ -100,34 +100,6 @@
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-43" value="验证报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1465" y="1061" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-39" target="Ha_c3DqPPXDAvbG9Cfsr-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0.01;entryX=0;entryY=0.07;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-40" target="Ha_c3DqPPXDAvbG9Cfsr-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1391" y="659" />
-              <mxPoint x="1416" y="659" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.4;entryY=0.01;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-40" target="Ha_c3DqPPXDAvbG9Cfsr-42">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1416" y="828" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.4;entryY=0.01;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-40" target="Ha_c3DqPPXDAvbG9Cfsr-43">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1391" y="858" />
-              <mxPoint x="1416" y="858" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
