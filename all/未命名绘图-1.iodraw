@@ -208,7 +208,7 @@
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-114" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.45;dx=24;notch=0;" vertex="1" parent="1">
           <mxGeometry x="85" y="1961" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-117" value="输入层" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-117" value="输出层" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="771" y="1909.5" width="152" height="143" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-118" value="非结构化文本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
