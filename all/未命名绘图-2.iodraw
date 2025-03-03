@@ -177,7 +177,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-105" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-105" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#d5e8d4;strokeColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="558" y="1860" width="145.5" height="231.45833333333348" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-106" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Ha_c3DqPPXDAvbG9Cfsr-105" vertex="1">
