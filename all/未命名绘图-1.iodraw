@@ -107,13 +107,13 @@
           <mxGeometry x="312" y="2166" width="258" height="223" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-63" value="输入层" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-82" y="1909" width="152" height="143" as="geometry" />
+          <mxGeometry x="-72" y="1909" width="152" height="143" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-64" value="非结构化文本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-62.25" y="1998" width="115.5" height="30" as="geometry" />
+          <mxGeometry x="-52.25" y="1998" width="115.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-65" value="人工交互接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-62.5" y="1930" width="116" height="34" as="geometry" />
+          <mxGeometry x="-52.5" y="1930" width="116" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-72" value="结构化需求体系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354.5" y="2210" width="173" height="49" as="geometry" />
@@ -209,13 +209,13 @@
           <mxGeometry x="85" y="1961" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-117" value="输出层" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="804" y="1909.5" width="152" height="143" as="geometry" />
+          <mxGeometry x="805" y="1909.5" width="152" height="143" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-118" value="验证报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="823.75" y="1998.5" width="115.5" height="30" as="geometry" />
+          <mxGeometry x="824.75" y="1998.5" width="115.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-119" value="结构化需求体系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="823.5" y="1930.5" width="116" height="34" as="geometry" />
+          <mxGeometry x="824.5" y="1930.5" width="116" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-120" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.45;dx=24;notch=0;" vertex="1" parent="1">
           <mxGeometry x="721" y="1960.5" width="75" height="40" as="geometry" />
