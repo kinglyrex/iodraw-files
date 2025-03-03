@@ -131,7 +131,7 @@
           <mxGeometry x="329" y="1898" width="147" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-68" value="知识图谱三维结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="546" y="1860" width="189" height="49" as="geometry" />
+          <mxGeometry x="542" y="1836" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-69" value="图神经网络推理路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="588" y="1913" width="205" height="49" as="geometry" />
@@ -147,16 +147,6 @@
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-73" value="验证报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1464" y="2158" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-64" target="Ha_c3DqPPXDAvbG9Cfsr-66">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-65" target="Ha_c3DqPPXDAvbG9Cfsr-67">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-69" target="Ha_c3DqPPXDAvbG9Cfsr-70">
           <mxGeometry relative="1" as="geometry">
