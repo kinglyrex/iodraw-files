@@ -530,6 +530,12 @@
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-116" value="主模块" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="11" y="3997" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-118" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="4030" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-119" value="主模块" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="11" y="4030" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
