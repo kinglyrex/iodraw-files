@@ -524,8 +524,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LCgk7WM_7pvtNSVYmZdA-113" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="3997" width="80" height="80" as="geometry" />
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-113" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="3997" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-114" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="143" y="4128" as="sourcePoint" />
+            <mxPoint x="193" y="4078" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="193" y="4128" />
+              <mxPoint x="73" y="4074" />
+              <mxPoint x="143" y="4078" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
