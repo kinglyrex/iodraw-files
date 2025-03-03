@@ -68,7 +68,7 @@
           <mxGeometry x="302" y="629" width="271" height="249" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-33" value="输入层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="659" width="207" height="218" as="geometry" />
+          <mxGeometry x="157" y="877.5" width="207" height="218" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-34" value="非结构化文本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="46" y="694" width="156" height="49" as="geometry" />
