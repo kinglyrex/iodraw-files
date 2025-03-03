@@ -47,7 +47,7 @@
           <mxGeometry x="-10" y="210" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XFHZmbCfwZrgIATAveA4-16" value="&amp;nbsp;需求分类/NLP分析&amp;nbsp;&lt;div&gt;技术可行性推理&amp;nbsp;&lt;/div&gt;&lt;div&gt;自动文档生成&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;多利益方协同优化&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="410" width="160" height="60" as="geometry" />
+          <mxGeometry x="60" y="430" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
