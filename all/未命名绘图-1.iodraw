@@ -104,7 +104,7 @@
           <mxGeometry x="1416" y="2024" width="248" height="218" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-59" value="核心处理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="277" y="1706" width="1387" height="298" as="geometry" />
+          <mxGeometry x="277" y="1727" width="864" height="277" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-60" value="验证优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1167" y="1726" width="472" height="258" as="geometry" />
@@ -197,14 +197,6 @@
             <Array as="points">
               <mxPoint x="1391" y="1955" />
               <mxPoint x="1416" y="1955" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.36;entryX=0.88;entryY=0.01;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-71" target="Ha_c3DqPPXDAvbG9Cfsr-66">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1416" y="1776" />
-              <mxPoint x="573" y="1776" />
             </Array>
           </mxGeometry>
         </mxCell>
