@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Lahc8cQugyGDqaHzDeRk">
-    <mxGraphModel dx="2345" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2574" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -491,7 +491,7 @@
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-68" value="数字装置参数校准与演化" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;strokeColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="439" y="4089.5" width="227" height="227" as="geometry" />
         </mxCell>
-        <mxCell id="LCgk7WM_7pvtNSVYmZdA-69" value="数字伴飞异常状态诊断与分析" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-69" value="数字伴飞异常状态诊断与分析" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;fontSize=16;strokeColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="434.75" y="4379" width="235.5" height="52" as="geometry" />
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-70" value="数字伴飞规律分析与风险预警" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=16;strokeColor=#FFE599;" vertex="1" parent="1">
