@@ -485,11 +485,6 @@
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-66" value="伴飞数据解析与预处理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-43" y="4177" width="183.5" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="LCgk7WM_7pvtNSVYmZdA-107" style="edgeStyle=orthogonalEdgeStyle;shape=arrow;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-67">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="3980" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-67" value="伴飞数据匹配与比对" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="201" y="4177" width="176" height="49" as="geometry" />
         </mxCell>
