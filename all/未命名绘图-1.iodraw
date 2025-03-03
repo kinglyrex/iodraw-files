@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-85" value="模型验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="806" y="1774" width="224.75" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="F7yd8QviotQ9aDXyOdrz-1" value="" style="endArrow=classic;html=1;rounded=0;startSize=6;endSize=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="540" as="sourcePoint" />
@@ -104,7 +101,7 @@
           <mxGeometry x="698" y="1599" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-58" value="输出层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="1753.5" width="258" height="223" as="geometry" />
+          <mxGeometry x="531" y="2145" width="258" height="223" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-63" value="输入层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="19" y="1756" width="207" height="218" as="geometry" />
@@ -115,17 +112,11 @@
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-65" value="人工交互接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="44" y="1891" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-70" value="形式化验证引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="831.38" y="1895.5" width="174" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-71" value="反馈学习环路" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="839.38" y="1800" width="158" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-72" value="结构化需求体系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1152.5" y="1787" width="173" height="49" as="geometry" />
+          <mxGeometry x="573.5" y="2178.5" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-73" value="验证报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1176.5" y="1891" width="125" height="49" as="geometry" />
+          <mxGeometry x="597.5" y="2282.5" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-87" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;智能感知&lt;/font&gt;&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;font face=&quot;No49wyxpnF27uCOrAbdl&quot;&gt;标注自然语言解析模块&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（语义分析、约束提取等）&lt;br&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;font face=&quot;No49wyxpnF27uCOrAbdl&quot;&gt;交互式对话引擎&lt;br&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;overflow=fill;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="283" y="1774" width="180" height="180" as="geometry" />
