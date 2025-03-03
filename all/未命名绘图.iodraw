@@ -7,7 +7,7 @@
         <mxCell id="F7yd8QviotQ9aDXyOdrz-1" value="" style="endArrow=classic;html=1;rounded=0;startSize=6;endSize=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="540" as="sourcePoint" />
-            <mxPoint x="800" y="540" as="targetPoint" />
+            <mxPoint x="778" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F7yd8QviotQ9aDXyOdrz-2" value="" style="endArrow=classic;html=1;rounded=0;endSize=3;" parent="1" edge="1">
@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XFHZmbCfwZrgIATAveA4-3" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;AI能力概述&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="555" width="100" height="30" as="geometry" />
+          <mxGeometry x="703" y="555" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XFHZmbCfwZrgIATAveA4-4" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;数据驱动与智能分析能力&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="555" width="120" height="30" as="geometry" />
