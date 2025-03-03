@@ -528,7 +528,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-116" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;主模块&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="11" y="3997" width="60" height="30" as="geometry" />
+          <mxGeometry x="11" y="3997" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-118" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-15" y="4030" width="26" height="26" as="geometry" />
@@ -545,7 +545,7 @@
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-122" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-15" y="4097" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LCgk7WM_7pvtNSVYmZdA-123" value="光谱仪模块" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-123" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;光谱仪模块&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="11" y="4097" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-124" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
