@@ -83,10 +83,10 @@
           <mxGeometry x="227" y="1199" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-38" value="知识图谱三维结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="903" y="785" width="189" height="49" as="geometry" />
+          <mxGeometry x="669.5" y="1315" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-39" value="图神经网络推理路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="887" y="803" width="205" height="49" as="geometry" />
+          <mxGeometry x="669.5" y="1251" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-40" value="形式化验证引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1192" y="803" width="174" height="49" as="geometry" />
