@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Lahc8cQugyGDqaHzDeRk">
-    <mxGraphModel dx="2345" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2816" dy="896" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -483,19 +483,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-66" value="伴飞数据解析与预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="4067" width="222" height="49" as="geometry" />
+          <mxGeometry x="-52.5" y="4178" width="222" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-67" value="伴飞数据匹配与比对" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="292" y="4067" width="176" height="49" as="geometry" />
+          <mxGeometry x="219.5" y="4178" width="176" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-68" value="数字装置参数校准与演化" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="518" y="3978" width="227" height="227" as="geometry" />
+          <mxGeometry x="445.5" y="4089" width="227" height="227" as="geometry" />
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-69" value="数字伴飞异常状态诊断与分析" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
-          <mxGeometry x="519" y="4255" width="225" height="52" as="geometry" />
+          <mxGeometry x="446.5" y="4366" width="225" height="52" as="geometry" />
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-70" value="数字伴飞规律分析与风险预警" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="795" y="4066" width="235" height="52" as="geometry" />
+          <mxGeometry x="722.5" y="4177" width="235" height="52" as="geometry" />
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-66" target="LCgk7WM_7pvtNSVYmZdA-67">
           <mxGeometry relative="1" as="geometry">
@@ -510,15 +510,15 @@
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-67" target="LCgk7WM_7pvtNSVYmZdA-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="493" y="4281" />
+              <mxPoint x="420.5" y="4392" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=0;entryX=0.39;entryY=-0.01;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-67" target="LCgk7WM_7pvtNSVYmZdA-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="493" y="3943" />
-              <mxPoint x="770" y="3943" />
+              <mxPoint x="420.5" y="4054" />
+              <mxPoint x="697.5" y="4054" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -530,7 +530,7 @@
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-76" value="" style="curved=1;startArrow=block;endArrow=block;exitX=1;exitY=0.5;entryX=0.42;entryY=0.99;rounded=0;" edge="1" parent="1" source="LCgk7WM_7pvtNSVYmZdA-69" target="LCgk7WM_7pvtNSVYmZdA-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="770" y="4281" />
+              <mxPoint x="697.5" y="4392" />
             </Array>
           </mxGeometry>
         </mxCell>
