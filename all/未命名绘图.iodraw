@@ -37,9 +37,6 @@
         <mxCell id="XFHZmbCfwZrgIATAveA4-47" value="&lt;span style=&quot;color: rgb(55, 65, 81); font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, system-ui, sans-serif; font-size: 16px; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;解析需求文档&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(55, 65, 81); font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, system-ui, sans-serif; font-size: 16px; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;自动识别功能&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XFHZmbCfwZrgIATAveA4-48" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="390" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
