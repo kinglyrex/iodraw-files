@@ -122,7 +122,7 @@
           <mxGeometry x="44" y="1891" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-66" value="标注自然语言解析模块&#xa;（语义分析、约束提取等）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="344.75" y="1800" width="161" height="46" as="geometry" />
+          <mxGeometry x="349.5" y="1976.5" width="161" height="46" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-67" value="交互式对话引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="351.75" y="1895.5" width="147" height="42" as="geometry" />
