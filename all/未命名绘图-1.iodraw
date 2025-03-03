@@ -89,10 +89,10 @@
           <mxGeometry x="661.5" y="1217" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-40" value="形式化验证引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1076" y="1300" width="174" height="49" as="geometry" />
+          <mxGeometry x="1142" y="1187" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-41" value="反馈学习环路" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1303" y="1266" width="158" height="49" as="geometry" />
+          <mxGeometry x="1150" y="1311" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-42" value="结构化需求体系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="671" y="1503" width="173" height="49" as="geometry" />
