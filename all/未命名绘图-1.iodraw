@@ -101,7 +101,7 @@
           <mxGeometry x="698" y="1599" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-58" value="输出层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1415" y="2024" width="258" height="223" as="geometry" />
+          <mxGeometry x="1119" y="1753.5" width="258" height="223" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-59" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="276" y="1727" width="800" height="267" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="768" y="1916" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-71" value="反馈学习环路" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1448" y="1761" width="158" height="49" as="geometry" />
+          <mxGeometry x="781" y="1810" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-72" value="结构化需求体系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1440" y="2059" width="173" height="49" as="geometry" />
@@ -148,29 +148,6 @@
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-69" target="Ha_c3DqPPXDAvbG9Cfsr-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0.01;entryX=0;entryY=0.07;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-70" target="Ha_c3DqPPXDAvbG9Cfsr-71">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1390" y="1756" />
-              <mxPoint x="1415" y="1756" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.4;entryY=0.01;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-70" target="Ha_c3DqPPXDAvbG9Cfsr-72">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1415" y="1925" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.4;entryY=0.01;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-70" target="Ha_c3DqPPXDAvbG9Cfsr-73">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1390" y="1955" />
-              <mxPoint x="1415" y="1955" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
