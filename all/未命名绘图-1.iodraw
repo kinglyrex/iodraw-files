@@ -128,30 +128,30 @@
           <mxGeometry x="283" y="2160" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-90" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="530.5" y="1764" width="137" height="234" as="geometry" />
+          <mxGeometry x="530.5" y="1764" width="145.5" height="234" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-91" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ha_c3DqPPXDAvbG9Cfsr-90">
-          <mxGeometry width="137" height="78" as="geometry" />
+          <mxGeometry width="145.5" height="78" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-92" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;智能感知&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ha_c3DqPPXDAvbG9Cfsr-91">
-          <mxGeometry width="137" height="78" as="geometry">
-            <mxRectangle width="137" height="78" as="alternateBounds" />
+          <mxGeometry width="146" height="78" as="geometry">
+            <mxRectangle width="146" height="78" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-93" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ha_c3DqPPXDAvbG9Cfsr-90">
-          <mxGeometry y="78" width="137" height="78" as="geometry" />
+          <mxGeometry y="78" width="145.5" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-94" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ha_c3DqPPXDAvbG9Cfsr-93">
-          <mxGeometry width="137" height="78" as="geometry">
-            <mxRectangle width="137" height="78" as="alternateBounds" />
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-94" value="&lt;span style=&quot;font-family: No49wyxpnF27uCOrAbdl;&quot;&gt;标注自然语言解析模块&lt;/span&gt;&lt;br style=&quot;font-family: No49wyxpnF27uCOrAbdl; padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;font-family: No49wyxpnF27uCOrAbdl;&quot;&gt;（语义分析、约束提取等）&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ha_c3DqPPXDAvbG9Cfsr-93">
+          <mxGeometry width="146" height="78" as="geometry">
+            <mxRectangle width="146" height="78" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-95" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ha_c3DqPPXDAvbG9Cfsr-90">
-          <mxGeometry y="156" width="137" height="78" as="geometry" />
+          <mxGeometry y="156" width="145.5" height="78" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-96" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ha_c3DqPPXDAvbG9Cfsr-95">
-          <mxGeometry width="137" height="78" as="geometry">
-            <mxRectangle width="137" height="78" as="alternateBounds" />
+          <mxGeometry width="146" height="78" as="geometry">
+            <mxRectangle width="146" height="78" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-97" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;color:black;mso-font-kerning:0pt;&#xa;mso-ligatures:none;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&#xa;mso-bidi-language:AR-SA&quot;&gt;多模态感知&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:12.0pt;&#xa;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;color:black;&#xa;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;&#xa;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&#xa;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;color:black;&#xa;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;知识化关联&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:&#xa;12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&#xa;color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-US;&#xa;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-US;&#xa;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;闭环验证&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
