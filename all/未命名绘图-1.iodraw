@@ -104,15 +104,15 @@
           <mxGeometry x="698" y="1599" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-63" value="输入层" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-48" y="1906.31" width="152" height="143" as="geometry" />
+          <mxGeometry x="-45" y="1909" width="152" height="143" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-64" value="非结构化文本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-28.25" y="1995.31" width="115.5" height="30" as="geometry" />
+          <mxGeometry x="-25.25" y="1998" width="115.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-65" value="人工交互接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-28.5" y="1927.31" width="116" height="34" as="geometry" />
+          <mxGeometry x="-25.5" y="1930" width="116" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-90" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=none;gradientColor=none;swimlaneLine=0;" vertex="1" parent="1">
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-90" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;gradientColor=none;swimlaneLine=0;" vertex="1" parent="1">
           <mxGeometry x="179" y="1860" width="145.5" height="235.625" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-91" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=default;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=7;" vertex="1" parent="Ha_c3DqPPXDAvbG9Cfsr-90">
@@ -126,7 +126,7 @@
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-93" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ha_c3DqPPXDAvbG9Cfsr-90">
           <mxGeometry y="78" width="145.5" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-94" value="&lt;span style=&quot;font-family: No49wyxpnF27uCOrAbdl;&quot;&gt;标注自然语言解析模块&lt;/span&gt;&lt;br style=&quot;font-family: No49wyxpnF27uCOrAbdl; padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;font-family: No49wyxpnF27uCOrAbdl;&quot;&gt;（语义分析、约束提取等）&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=#FFFFCC;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ha_c3DqPPXDAvbG9Cfsr-93">
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-94" value="&lt;span style=&quot;font-family: No49wyxpnF27uCOrAbdl;&quot;&gt;标注自然语言解析模块&lt;/span&gt;&lt;br style=&quot;font-family: No49wyxpnF27uCOrAbdl; padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;font-family: No49wyxpnF27uCOrAbdl;&quot;&gt;（语义分析、约束提取等）&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ha_c3DqPPXDAvbG9Cfsr-93">
           <mxGeometry width="146" height="78" as="geometry">
             <mxRectangle width="146" height="78" as="alternateBounds" />
           </mxGeometry>
@@ -134,7 +134,7 @@
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-95" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ha_c3DqPPXDAvbG9Cfsr-90">
           <mxGeometry y="156" width="145.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-96" value="&lt;span style=&quot;font-family: No49wyxpnF27uCOrAbdl;&quot;&gt;交互式对话引擎&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d6b656;overflow=hidden;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ha_c3DqPPXDAvbG9Cfsr-95">
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-96" value="&lt;span style=&quot;font-family: No49wyxpnF27uCOrAbdl;&quot;&gt;交互式对话引擎&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Ha_c3DqPPXDAvbG9Cfsr-95">
           <mxGeometry width="146" height="80" as="geometry">
             <mxRectangle width="146" height="80" as="alternateBounds" />
           </mxGeometry>
