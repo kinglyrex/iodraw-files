@@ -110,7 +110,7 @@
           <mxGeometry x="544.75" y="1774" width="237" height="189" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-62" value="智能感知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="321.25" y="1774" width="208" height="192" as="geometry" />
+          <mxGeometry x="321.25" y="1774" width="170.75" height="82" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-63" value="输入层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="19" y="1756" width="207" height="218" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="349.5" y="1976.5" width="161" height="46" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-67" value="交互式对话引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="351.75" y="1895.5" width="147" height="42" as="geometry" />
+          <mxGeometry x="351.75" y="2030" width="147" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-68" value="知识图谱三维结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="568.75" y="1800" width="189" height="49" as="geometry" />
