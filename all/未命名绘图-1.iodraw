@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Lahc8cQugyGDqaHzDeRk">
-    <mxGraphModel dx="1545" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1774" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,22 +101,22 @@
           <mxGeometry x="698" y="1599" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-58" value="输出层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="308.75" y="2166" width="258" height="223" as="geometry" />
+          <mxGeometry x="312" y="2166" width="258" height="223" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-63" value="输入层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-46" y="1755" width="207" height="218" as="geometry" />
+          <mxGeometry x="-55" y="1868" width="207" height="218" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-64" value="非结构化文本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1790" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-65" value="人工交互接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-21" y="1890" width="157" height="49" as="geometry" />
+          <mxGeometry x="-28" y="1904" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-72" value="结构化需求体系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="351.25" y="2210" width="173" height="49" as="geometry" />
+          <mxGeometry x="354.5" y="2210" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-73" value="验证报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="375.25" y="2301" width="125" height="49" as="geometry" />
+          <mxGeometry x="378.5" y="2301" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-90" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="203" y="1860" width="145.5" height="234" as="geometry" />
@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-97" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;color:black;mso-font-kerning:0pt;&#xa;mso-ligatures:none;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&#xa;mso-bidi-language:AR-SA&quot;&gt;多模态感知&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:12.0pt;&#xa;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;color:black;&#xa;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;&#xa;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&#xa;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;color:black;&#xa;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;知识化关联&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:&#xa;12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&#xa;color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-US;&#xa;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-US;&#xa;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;闭环验证&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275.9964705882356" y="2407.004705882353" width="280" height="41" as="geometry" />
+          <mxGeometry x="300.7864705882356" y="2109.004705882353" width="280" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-98" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="365" y="1860" width="145.5" height="234" as="geometry" />
