@@ -103,14 +103,14 @@
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-58" value="输出层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1415" y="2024" width="258" height="223" as="geometry" />
         </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-59" value="核心处理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-59" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="276" y="1727" width="800" height="267" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-60" value="验证优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1166" y="1726" width="472" height="258" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-61" value="知识关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="519" y="1997" width="494" height="189" as="geometry" />
+          <mxGeometry x="522" y="1773" width="494" height="189" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-62" value="智能感知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="298.5" y="1773" width="208" height="192" as="geometry" />
@@ -134,7 +134,7 @@
           <mxGeometry x="546" y="1860" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-69" value="图神经网络推理路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="797" y="1891" width="205" height="49" as="geometry" />
+          <mxGeometry x="588" y="1913" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-70" value="形式化验证引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1191" y="1900" width="174" height="49" as="geometry" />
@@ -183,14 +183,6 @@
             <Array as="points">
               <mxPoint x="1390" y="1955" />
               <mxPoint x="1415" y="1955" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1.01;entryX=0.76;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-71" target="Ha_c3DqPPXDAvbG9Cfsr-68">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1415" y="1846" />
-              <mxPoint x="861" y="1846" />
             </Array>
           </mxGeometry>
         </mxCell>
