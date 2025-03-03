@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XFHZmbCfwZrgIATAveA4-3" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;MBSE全生命周期阶段&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="520" width="100" height="30" as="geometry" />
+          <mxGeometry x="700" y="520" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XFHZmbCfwZrgIATAveA4-4" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;数据驱动与智能分析能力&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="520" width="100" height="30" as="geometry" />
@@ -28,20 +28,8 @@
         <mxCell id="XFHZmbCfwZrgIATAveA4-6" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;多模态交互与决策支持能力&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="520" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XFHZmbCfwZrgIATAveA4-7" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;产品设计&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XFHZmbCfwZrgIATAveA4-7" value="&lt;span style=&quot;font-size: 12pt; font-family: 宋体;&quot;&gt;生成与创新能力&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="520" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XFHZmbCfwZrgIATAveA4-8" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;制造总装&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="520" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XFHZmbCfwZrgIATAveA4-9" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;测试试验&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="520" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XFHZmbCfwZrgIATAveA4-10" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;发射运行&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="520" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XFHZmbCfwZrgIATAveA4-11" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;交付运营&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="520" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XFHZmbCfwZrgIATAveA4-14" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;AI在MBSE中&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;具体应用&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="220" width="120" height="40" as="geometry" />
