@@ -6,30 +6,30 @@
         <mxCell id="1" parent="0" />
         <mxCell id="F7yd8QviotQ9aDXyOdrz-1" value="" style="endArrow=classic;html=1;rounded=0;startSize=6;endSize=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="510" as="sourcePoint" />
-            <mxPoint x="800" y="510" as="targetPoint" />
+            <mxPoint x="80" y="535" as="sourcePoint" />
+            <mxPoint x="800" y="535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F7yd8QviotQ9aDXyOdrz-2" value="" style="endArrow=classic;html=1;rounded=0;endSize=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="510" as="sourcePoint" />
+            <mxPoint x="80" y="530" as="sourcePoint" />
             <mxPoint x="80" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XFHZmbCfwZrgIATAveA4-3" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;AI能力概述&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="530" width="100" height="30" as="geometry" />
+          <mxGeometry x="720" y="555" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XFHZmbCfwZrgIATAveA4-4" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;数据驱动与智能分析能力&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="530" width="120" height="30" as="geometry" />
+          <mxGeometry x="120" y="555" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XFHZmbCfwZrgIATAveA4-5" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;知识管理与推理能力&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="530" width="90" height="30" as="geometry" />
+          <mxGeometry x="280" y="555" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XFHZmbCfwZrgIATAveA4-6" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;多模态交互与决策支持能力&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="423.5" y="530" width="100" height="30" as="geometry" />
+          <mxGeometry x="423.5" y="555" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XFHZmbCfwZrgIATAveA4-7" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;生成与创新能力&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="530" width="120" height="30" as="geometry" />
+          <mxGeometry x="560" y="555" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XFHZmbCfwZrgIATAveA4-14" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;AI在MBSE中&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;具体应用&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="220" width="120" height="40" as="geometry" />
