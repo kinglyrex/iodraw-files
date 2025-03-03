@@ -7,7 +7,7 @@
         <mxCell id="F7yd8QviotQ9aDXyOdrz-1" value="" style="endArrow=classic;html=1;rounded=0;startSize=6;endSize=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="510" as="sourcePoint" />
-            <mxPoint x="610" y="510" as="targetPoint" />
+            <mxPoint x="780" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F7yd8QviotQ9aDXyOdrz-2" value="" style="endArrow=classic;html=1;rounded=0;endSize=3;" parent="1" edge="1">
@@ -47,7 +47,7 @@
           <mxGeometry x="-10" y="210" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XFHZmbCfwZrgIATAveA4-16" value="&amp;nbsp;需求分类/NLP分析&amp;nbsp;&lt;div&gt;技术可行性推理&amp;nbsp;&lt;/div&gt;&lt;div&gt;自动文档生成&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;多利益方协同优化&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="340" width="160" height="60" as="geometry" />
+          <mxGeometry x="60" y="410" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
