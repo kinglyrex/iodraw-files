@@ -113,7 +113,7 @@
           <mxGeometry x="622" y="1796" width="494" height="189" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-62" value="智能感知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="301" y="1783" width="208" height="192" as="geometry" />
+          <mxGeometry x="298.5" y="1773" width="208" height="192" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-63" value="输入层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="19" y="1756" width="207" height="218" as="geometry" />
