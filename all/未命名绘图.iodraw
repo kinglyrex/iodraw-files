@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XFHZmbCfwZrgIATAveA4-3" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;MBSE全生命周期阶段&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="520" width="100" height="30" as="geometry" />
+          <mxGeometry x="580" y="520" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XFHZmbCfwZrgIATAveA4-4" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;项目论证&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="520" width="100" height="30" as="geometry" />
@@ -43,7 +43,7 @@
         <mxCell id="XFHZmbCfwZrgIATAveA4-11" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;交付运营&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="520" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XFHZmbCfwZrgIATAveA4-14" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;AI发挥作用&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XFHZmbCfwZrgIATAveA4-14" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;AI在各阶段中&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;具体应用&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="210" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
