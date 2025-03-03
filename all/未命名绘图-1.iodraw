@@ -125,7 +125,7 @@
           <mxGeometry x="44" y="1891" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-66" value="标注自然语言解析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="326" y="1794" width="161" height="46" as="geometry" />
+          <mxGeometry x="322" y="1799" width="161" height="46" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-67" value="交互式对话引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="329" y="1898" width="147" height="42" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="538" y="1894.5" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-70" value="形式化验证引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1898" width="174" height="49" as="geometry" />
+          <mxGeometry x="802" y="1894.5" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-71" value="反馈学习环路" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="810" y="1799" width="158" height="49" as="geometry" />
