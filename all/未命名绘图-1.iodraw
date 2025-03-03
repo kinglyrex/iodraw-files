@@ -110,7 +110,7 @@
           <mxGeometry x="-91" y="1868" width="159" height="175" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-64" value="非结构化文本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-65.5" y="2001" width="156" height="49" as="geometry" />
+          <mxGeometry x="-65.5" y="2001" width="115.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-65" value="人工交互接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-66" y="1904" width="119" height="34" as="geometry" />
@@ -206,7 +206,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-114" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.45;dx=24;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="121.5" y="1961" width="75" height="40" as="geometry" />
+          <mxGeometry x="85" y="1961" width="75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
