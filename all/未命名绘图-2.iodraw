@@ -515,12 +515,6 @@
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-91" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=7;dx=23.83;arrowHead=39.33;rounded=1;flipH=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="691" y="4242" width="187" height="181" as="geometry" />
         </mxCell>
-        <mxCell id="LCgk7WM_7pvtNSVYmZdA-102" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=5.25;dx=12.33;arrowHead=32.83;rounded=1;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="-133.77" y="4232.61" width="92" height="103" as="geometry" />
-        </mxCell>
-        <mxCell id="LCgk7WM_7pvtNSVYmZdA-103" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="512.75" y="3745.75" width="96" height="519" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
