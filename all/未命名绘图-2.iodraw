@@ -495,7 +495,7 @@
           <mxGeometry x="434.75" y="4379" width="235.5" height="52" as="geometry" />
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-70" value="数字伴飞规律分析与风险预警" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="726" y="4175.5" width="235" height="52" as="geometry" />
+          <mxGeometry x="744.5" y="4175.5" width="235" height="52" as="geometry" />
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-79" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.59;dx=17.5;notch=0;" vertex="1" parent="1">
           <mxGeometry x="148" y="4188" width="47" height="27" as="geometry" />
@@ -507,7 +507,7 @@
           <mxGeometry x="529" y="4334" width="47" height="27" as="geometry" />
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-85" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.55;dx=18.67;" vertex="1" parent="1">
-          <mxGeometry x="669.5" y="4188.5" width="70" height="29" as="geometry" />
+          <mxGeometry x="669.5" y="4188.5" width="67.5" height="28.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
