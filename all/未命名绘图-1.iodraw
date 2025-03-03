@@ -62,19 +62,19 @@
           <mxGeometry x="993" y="1145" width="472" height="258" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-31" value="知识关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="525" y="1199" width="494" height="189" as="geometry" />
+          <mxGeometry x="510.5" y="1196" width="494" height="189" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-32" value="智能感知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="186" y="1154" width="271" height="249" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-33" value="输入层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="739" y="853" width="207" height="218" as="geometry" />
+          <mxGeometry x="654" y="865" width="207" height="218" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-34" value="非结构化文本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="765.5" y="885" width="156" height="49" as="geometry" />
+          <mxGeometry x="680.5" y="897" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-35" value="人工交互接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="764.5" y="988" width="157" height="49" as="geometry" />
+          <mxGeometry x="679.5" y="1000" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-36" value="标注自然语言解析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="203" y="1321" width="221" height="49" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="669.5" y="1315" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-39" value="图神经网络推理路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="671" y="1220" width="205" height="49" as="geometry" />
+          <mxGeometry x="661.5" y="1217" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-40" value="形式化验证引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1076" y="1300" width="174" height="49" as="geometry" />
