@@ -56,13 +56,13 @@
           <mxGeometry x="1416" y="927" width="248" height="218" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-29" value="核心处理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-171" y="1366" width="1387" height="298" as="geometry" />
+          <mxGeometry x="120" y="1134" width="1387" height="298" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-30" value="验证优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1167" y="629" width="472" height="258" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-31" value="知识关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="623" y="699" width="494" height="189" as="geometry" />
+          <mxGeometry x="664" y="1002" width="494" height="189" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-32" value="智能感知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="290" y="1106" width="271" height="249" as="geometry" />
