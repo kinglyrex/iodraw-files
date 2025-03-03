@@ -77,7 +77,7 @@
           <mxGeometry x="338.5" y="996" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-36" value="标注自然语言解析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="349" y="766" width="221" height="49" as="geometry" />
+          <mxGeometry x="729" y="1057" width="221" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-37" value="交互式对话引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="584" y="1004" width="173" height="49" as="geometry" />
@@ -99,11 +99,6 @@
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-43" value="验证报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1465" y="1061" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-34" target="Ha_c3DqPPXDAvbG9Cfsr-36">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-35" target="Ha_c3DqPPXDAvbG9Cfsr-37">
           <mxGeometry relative="1" as="geometry">
