@@ -216,9 +216,6 @@
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-119" value="结构化需求体系" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="797.5" y="1927.31" width="116" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-93" target="Ha_c3DqPPXDAvbG9Cfsr-101">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-101" target="Ha_c3DqPPXDAvbG9Cfsr-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
