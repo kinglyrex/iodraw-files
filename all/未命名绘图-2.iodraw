@@ -488,13 +488,13 @@
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-67" value="伴飞数据匹配与比对" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="219.5" y="4178" width="176" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="LCgk7WM_7pvtNSVYmZdA-68" value="数字装置参数校准与演化" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-68" value="数字装置参数校准与演化" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="445.5" y="4089" width="227" height="227" as="geometry" />
         </mxCell>
-        <mxCell id="LCgk7WM_7pvtNSVYmZdA-69" value="数字伴飞异常状态诊断与分析" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-69" value="数字伴飞异常状态诊断与分析" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="446.5" y="4366" width="225" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="LCgk7WM_7pvtNSVYmZdA-70" value="数字伴飞规律分析与风险预警" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-70" value="数字伴飞规律分析与风险预警" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="722.5" y="4177" width="235" height="52" as="geometry" />
         </mxCell>
       </root>
