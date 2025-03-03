@@ -521,9 +521,11 @@
             <mxPoint x="797" y="4142" as="targetPoint" />
             <Array as="points">
               <mxPoint x="554" y="4046" />
-              <mxPoint x="682" y="4091" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LCgk7WM_7pvtNSVYmZdA-113" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="3997" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
