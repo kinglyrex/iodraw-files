@@ -492,7 +492,7 @@
           <mxGeometry x="439" y="4089.5" width="227" height="227" as="geometry" />
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-69" value="数字伴飞异常状态诊断与分析" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="435.5" y="4373" width="235.5" height="52" as="geometry" />
+          <mxGeometry x="434.75" y="4379" width="235.5" height="52" as="geometry" />
         </mxCell>
         <mxCell id="LCgk7WM_7pvtNSVYmZdA-70" value="数字伴飞规律分析与风险预警" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="726" y="4175.5" width="235" height="52" as="geometry" />
