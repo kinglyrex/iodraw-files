@@ -109,9 +109,6 @@
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-61" value="知识关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="544.75" y="1774" width="237" height="189" as="geometry" />
         </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-62" value="智能感知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="321.25" y="1774" width="170.75" height="82" as="geometry" />
-        </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-63" value="输入层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="19" y="1756" width="207" height="218" as="geometry" />
         </mxCell>
@@ -120,12 +117,6 @@
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-65" value="人工交互接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="44" y="1891" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-66" value="标注自然语言解析模块&#xa;（语义分析、约束提取等）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="349.5" y="1976.5" width="161" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-67" value="交互式对话引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="351.75" y="2030" width="147" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-68" value="知识图谱三维结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="568.75" y="1800" width="189" height="49" as="geometry" />
@@ -145,8 +136,8 @@
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-73" value="验证报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1176.5" y="1891" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-87" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;智能感知&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;标注自然语言解析模块&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（语义分析、约束提取等）&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Section 2.1&lt;br&gt;Section 2.2&lt;br&gt;Section 2.3&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
-          <mxGeometry x="315" y="1597" width="180" height="180" as="geometry" />
+        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-87" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;智能感知&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;标注自然语言解析模块&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（语义分析、约束提取等）&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;交互式对话引擎&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="283" y="1774" width="180" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
