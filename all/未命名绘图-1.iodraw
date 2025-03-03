@@ -107,7 +107,7 @@
           <mxGeometry x="312" y="2166" width="258" height="223" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-63" value="输入层" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-91" y="1868" width="155" height="151" as="geometry" />
+          <mxGeometry x="-91" y="1868" width="152" height="143" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-64" value="非结构化文本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-71.25" y="1962" width="115.5" height="30" as="geometry" />
