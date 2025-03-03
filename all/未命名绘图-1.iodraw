@@ -110,10 +110,10 @@
           <mxGeometry x="-91" y="1868" width="159" height="175" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-64" value="非结构化文本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-69.25" y="1980" width="115.5" height="30" as="geometry" />
+          <mxGeometry x="-69.25" y="1975" width="115.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-65" value="人工交互接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-66" y="1904" width="114" height="36" as="geometry" />
+          <mxGeometry x="-68" y="1904" width="116" height="36" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-72" value="结构化需求体系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354.5" y="2210" width="173" height="49" as="geometry" />
