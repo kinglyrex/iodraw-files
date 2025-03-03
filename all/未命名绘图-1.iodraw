@@ -134,7 +134,7 @@
           <mxGeometry x="538" y="1894.5" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-70" value="形式化验证引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="777" y="1900" width="174" height="49" as="geometry" />
+          <mxGeometry x="771" y="1903" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-71" value="反馈学习环路" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="781" y="1810" width="158" height="49" as="geometry" />
@@ -144,11 +144,6 @@
         </mxCell>
         <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-73" value="验证报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1176.5" y="1891" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Ha_c3DqPPXDAvbG9Cfsr-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="Ha_c3DqPPXDAvbG9Cfsr-69" target="Ha_c3DqPPXDAvbG9Cfsr-70">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
