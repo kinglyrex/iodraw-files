@@ -877,8 +877,11 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-109" value="逆向建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="219" y="5938" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-110" value="不确定性&#xa;分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="5753" width="172" height="49" as="geometry" />
+        <mxCell id="noGz0mHyxyK1vu1SElPC-111" value="逆向建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="144" y="5911" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-112" value="不确定性&#xa;分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="5726" width="172" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
