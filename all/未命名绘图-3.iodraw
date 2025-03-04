@@ -743,7 +743,7 @@
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="794" y="5395" as="targetPoint" />
+            <mxPoint x="749.166666666667" y="5391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-48" value="故障预案验证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
@@ -795,8 +795,8 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-70" value="伴飞比对与状态预示子系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="367.25" y="5421" width="83.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-73" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="706" y="5260" width="60" height="30" as="geometry" />
+        <mxCell id="noGz0mHyxyK1vu1SElPC-74" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="573" y="5223" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
