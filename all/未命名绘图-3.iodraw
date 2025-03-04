@@ -824,7 +824,7 @@
           <mxGeometry x="750" y="5726" width="182" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-86" value="仿真模型&#xa;误差评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="489" y="5810" width="203" height="49" as="geometry" />
+          <mxGeometry x="466" y="5814" width="203" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-87" value="数据清理&#xa;与变换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="429" y="5915" width="188" height="49" as="geometry" />
@@ -852,6 +852,9 @@
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-112" value="不确定性&#xa;分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="984" y="5726" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-113" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="219" y="6088" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
