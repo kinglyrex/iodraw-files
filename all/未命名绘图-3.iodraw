@@ -715,6 +715,12 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-44" value="伴飞数据解析与匹配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="349" y="5164" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-45" value="伴飞比对分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="5234" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-46" value="伴飞比对分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="5244" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
