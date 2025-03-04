@@ -848,7 +848,7 @@
           <mxGeometry x="2093" y="5693" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-94" value="生成&#xa;验模报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2094" y="5859" width="170" height="49" as="geometry" />
+          <mxGeometry x="1272" y="5910" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-112" value="不确定性&#xa;分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1015" y="5726" width="172" height="49" as="geometry" />
