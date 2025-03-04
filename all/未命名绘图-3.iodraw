@@ -955,8 +955,8 @@
             <mxPoint x="840.75" y="6290.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-149" value="数学验模基础环境" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="589" y="6341" width="60" height="30" as="geometry" />
+        <mxCell id="noGz0mHyxyK1vu1SElPC-149" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数学验模基础环境&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="589" y="6341" width="76" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
