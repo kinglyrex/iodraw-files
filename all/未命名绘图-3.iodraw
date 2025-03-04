@@ -768,7 +768,7 @@
           <mxGeometry x="311" y="5318" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-64" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="487" y="5263" width="60" height="30" as="geometry" />
+          <mxGeometry x="479" y="5263" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-66" value="故障先验知识" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="619.5" y="5230" width="60" height="30" as="geometry" />
@@ -778,6 +778,9 @@
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-68" value="故障预案验证" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="576.25" y="5418" width="83.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="5134" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
