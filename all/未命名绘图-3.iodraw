@@ -935,10 +935,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-143" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;指标参数&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="266" y="6131" width="68" height="30" as="geometry" />
+          <mxGeometry x="262" y="6131" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-144" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数学模型&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="265" y="6200" width="66" height="30" as="geometry" />
+          <mxGeometry x="263" y="6205" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-145" value="试验结果" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="273" y="6365" width="60" height="30" as="geometry" />
