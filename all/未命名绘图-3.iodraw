@@ -779,7 +779,7 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-67" value="在轨状态" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="619.5" y="5328" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-68" value="故障预案验证与故障状态复现" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="noGz0mHyxyK1vu1SElPC-68" value="故障预案验证与故障状态复现子系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="567" y="5428" width="95.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-70" value="伴飞比对与状态预示子系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
