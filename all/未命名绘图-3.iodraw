@@ -808,6 +808,9 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-77" value="有效载荷运行管理系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="795.5" y="5219" width="173.5" height="205" as="geometry" />
         </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-79" value="异常状态及&lt;div&gt;故障复现结果&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="567" y="5051" width="215" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
