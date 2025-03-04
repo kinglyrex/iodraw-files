@@ -844,6 +844,11 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-91" value="仿真建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="210" y="5691" width="126" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="238.42857142857156" y="5919.571428571429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-92" value="实体试验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="176" y="5790" width="126" height="49" as="geometry" />
         </mxCell>
