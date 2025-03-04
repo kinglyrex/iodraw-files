@@ -812,7 +812,7 @@
           <mxGeometry x="558" y="5061" width="215" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-81" value="数学验模基础环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="311" y="5630" width="910" height="393" as="geometry" />
+          <mxGeometry x="311" y="5630" width="872" height="392" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-82" value="试验&#xa;设计分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="364" y="5726" width="172" height="49" as="geometry" />
@@ -827,7 +827,7 @@
           <mxGeometry x="489" y="5810" width="203" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-87" value="数据清理&#xa;与变换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="5916" width="188" height="49" as="geometry" />
+          <mxGeometry x="429" y="5915" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-88" value="逆向建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="829" y="5911" width="126" height="49" as="geometry" />
