@@ -809,7 +809,7 @@
           <mxGeometry x="795.5" y="5219" width="173.5" height="205" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-79" value="上行指令&amp;nbsp; 遥测数据" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="567" y="5051" width="215" height="30" as="geometry" />
+          <mxGeometry x="558" y="5061" width="215" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
