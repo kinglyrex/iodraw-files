@@ -768,7 +768,7 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-64" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="487" y="5263" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-66" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="noGz0mHyxyK1vu1SElPC-66" value="故障先验知识" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="466" y="5149" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
