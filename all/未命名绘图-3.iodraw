@@ -744,11 +744,6 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-48">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="794" y="5395" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="736" y="5391" />
-              <mxPoint x="736" y="5396" />
-              <mxPoint x="794" y="5396" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-48" value="故障预案验证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
