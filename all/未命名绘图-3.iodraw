@@ -836,13 +836,13 @@
           <mxGeometry x="940" y="5843" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-90" value="设计指标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="174.79000000000002" y="5731" width="125" height="49" as="geometry" />
+          <mxGeometry x="87.25000000000001" y="5726" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-91" value="仿真建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="174.79" y="5803" width="126" height="49" as="geometry" />
+          <mxGeometry x="87.24999999999999" y="5798" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-92" value="实体试验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="174.79" y="5916" width="126" height="49" as="geometry" />
+          <mxGeometry x="87.24999999999999" y="5911" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-93" value="验证后的&#xa;模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1271" y="5734" width="171" height="49" as="geometry" />
