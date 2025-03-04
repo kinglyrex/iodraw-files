@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="noGz0mHyxyK1vu1SElPC-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="noGz0mHyxyK1vu1SElPC-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="315.87" y="5151" width="180.13" height="313" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -780,7 +780,7 @@
           <mxGeometry x="619.5" y="5328" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-68" value="故障预案验证与故障状态复现子系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="567" y="5428" width="95.75" height="30" as="geometry" />
+          <mxGeometry x="567" y="5428" width="102" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-70" value="伴飞比对与状态预示子系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="367.25" y="5421" width="83.5" height="30" as="geometry" />
