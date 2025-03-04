@@ -815,7 +815,7 @@
           <mxGeometry x="422" y="5668" width="1621" height="255" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-82" value="试验&#xa;设计分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1009" y="5711" width="172" height="49" as="geometry" />
+          <mxGeometry x="790" y="5700" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-83" value="灵敏度&#xa;分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1231" y="5740" width="156" height="49" as="geometry" />
@@ -887,7 +887,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.32;entryX=0.18;entryY=0.99;rounded=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-86" target="noGz0mHyxyK1vu1SElPC-82">
+        <mxCell id="noGz0mHyxyK1vu1SElPC-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.18;entryY=0.99;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-86" target="noGz0mHyxyK1vu1SElPC-82">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="949" y="5800" />
