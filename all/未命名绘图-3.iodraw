@@ -811,8 +811,8 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-79" value="上行指令&amp;nbsp; 遥测数据" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="558" y="5061" width="215" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-80" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="573" y="5200" width="60" height="30" as="geometry" />
+        <mxCell id="noGz0mHyxyK1vu1SElPC-80" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;有效载荷运行管理系统&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="811" y="4959" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
