@@ -878,10 +878,10 @@
           <mxGeometry x="604" y="6205" width="98" height="61" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-121" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;不确定性&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;分析&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="813" y="6183" width="98" height="61" as="geometry" />
+          <mxGeometry x="738.5" y="6205" width="98" height="61" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-122" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;验证分析&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="907" y="6272" width="98" height="61" as="geometry" />
+          <mxGeometry x="787" y="6288" width="98" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
