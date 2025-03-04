@@ -815,10 +815,10 @@
           <mxGeometry x="326" y="5595" width="1640" height="411" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-82" value="试验&#xa;设计分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="644" y="5693" width="172" height="49" as="geometry" />
+          <mxGeometry x="395" y="5726" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-83" value="灵敏度&#xa;分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="930" y="5716" width="156" height="49" as="geometry" />
+          <mxGeometry x="606" y="5731" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-84" value="参数修正&#xa;(优化)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1240" y="5726" width="182" height="49" as="geometry" />
@@ -852,11 +852,6 @@
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-94" value="生成&#xa;验模报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2094" y="5859" width="170" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-83" target="noGz0mHyxyK1vu1SElPC-84">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-101" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-84" target="noGz0mHyxyK1vu1SElPC-85">
           <mxGeometry relative="1" as="geometry">
