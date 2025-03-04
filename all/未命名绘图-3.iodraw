@@ -722,7 +722,10 @@
           <mxGeometry x="684" y="5164" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-47" value="故障场景库构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="694" y="5174" width="120" height="60" as="geometry" />
+          <mxGeometry x="684" y="5265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-48" value="故障场景库构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="704" y="5184" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
