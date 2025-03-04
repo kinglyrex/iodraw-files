@@ -958,6 +958,59 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-149" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数学验模基础环境&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="602" y="6341" width="76" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-151" value="数据接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="66" y="6480" width="97" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-152" value="非测控弧段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="417" y="6470" width="224" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-153" value="上行指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="52" y="6565" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-154" value="月球车模型" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="242" y="6624" width="110" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-155" value="实时仿真数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="6624" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-156" value="月球车实物" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="227" y="6505" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-157" value="遥测数据未下传" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="442" y="6505" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-158" value="运行态势演示" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="691" y="6624" width="127" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-159" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-153" target="noGz0mHyxyK1vu1SElPC-154">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="202" y="6649" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-160" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-154" target="noGz0mHyxyK1vu1SElPC-155">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-161" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-156" target="noGz0mHyxyK1vu1SElPC-157">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-162" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-153" target="noGz0mHyxyK1vu1SElPC-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="202" y="6530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-163" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-155" target="noGz0mHyxyK1vu1SElPC-158">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
