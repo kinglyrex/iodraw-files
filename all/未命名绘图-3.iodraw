@@ -821,7 +821,7 @@
           <mxGeometry x="602" y="5726" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-84" value="参数修正&#xa;(优化)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="806" y="5726" width="182" height="49" as="geometry" />
+          <mxGeometry x="781" y="5726" width="182" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-86" value="仿真模型&#xa;误差评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="5810" width="203" height="49" as="geometry" />
@@ -833,7 +833,7 @@
           <mxGeometry x="604" y="5916" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-89" value="验证分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1659" y="5813" width="126" height="49" as="geometry" />
+          <mxGeometry x="971" y="5843" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-90" value="设计指标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="174.79000000000002" y="5731" width="125" height="49" as="geometry" />
@@ -849,20 +849,6 @@
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-94" value="生成&#xa;验模报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2094" y="5859" width="170" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-106" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=0.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-89" target="noGz0mHyxyK1vu1SElPC-93">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2043" y="5718" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-107" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-89" target="noGz0mHyxyK1vu1SElPC-94">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2043" y="5884" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-109" value="逆向建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="219" y="5938" width="126" height="49" as="geometry" />
