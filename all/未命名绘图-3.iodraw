@@ -799,8 +799,8 @@
             <mxPoint x="678" y="5390.58" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-76" value="异常状态及&lt;div&gt;故障复现结果&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="721" y="5264" width="76" height="30" as="geometry" />
+        <mxCell id="noGz0mHyxyK1vu1SElPC-76" value="故障处理方案验证结果" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="709" y="5348" width="76" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
