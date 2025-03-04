@@ -973,19 +973,11 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-155" value="实时仿真数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="6624" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-156" value="月球车实物" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="227" y="6505" width="140" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-157" value="遥测数据未下传" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="442" y="6505" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-158" value="运行态势演示" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="691" y="6624" width="127" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-163" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-155" target="noGz0mHyxyK1vu1SElPC-158">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
