@@ -937,6 +937,9 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-143" value="指标参数" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="6125" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-144" value="数学模型" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="6197" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
