@@ -800,7 +800,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-76" value="故障处理方案验证结果" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="709" y="5348" width="76" height="30" as="geometry" />
+          <mxGeometry x="711" y="5353" width="76" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
