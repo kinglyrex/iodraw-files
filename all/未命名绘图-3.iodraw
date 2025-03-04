@@ -751,6 +751,9 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-61" value="遥测数据" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="349" y="5126" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-62" value="遥测数据" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="413" y="5126" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
