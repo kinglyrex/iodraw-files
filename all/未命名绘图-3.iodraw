@@ -742,8 +742,8 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-53" value="状态异常" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="355.5" y="5338" width="107" height="64.2" as="geometry" />
         </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-58" value="故障场景库构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="714" y="5194" width="120" height="60" as="geometry" />
+        <mxCell id="noGz0mHyxyK1vu1SElPC-59" value="伴飞数据解析与匹配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="5174" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
