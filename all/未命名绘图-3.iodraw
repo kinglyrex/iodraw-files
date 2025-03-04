@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Lahc8cQugyGDqaHzDeRk">
-    <mxGraphModel dx="3163" dy="1089" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2148" dy="526" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -842,15 +842,10 @@
           <mxGeometry x="293" y="5550" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-91" value="仿真建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="210" y="5691" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-92">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="238.42857142857156" y="5919.571428571429" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="174.79" y="5805" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-92" value="实体试验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="176" y="5790" width="126" height="49" as="geometry" />
+          <mxGeometry x="174.79" y="5874" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-93" value="验证后的&#xa;模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2093" y="5693" width="171" height="49" as="geometry" />
