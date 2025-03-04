@@ -754,8 +754,8 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-62" value="仿真数据" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410.79" y="5126" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-63" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="317" y="5317" width="60" height="30" as="geometry" />
+        <mxCell id="noGz0mHyxyK1vu1SElPC-63" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="311" y="5318" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
