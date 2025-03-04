@@ -845,7 +845,7 @@
           <mxGeometry x="174.79" y="5803" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-92" value="实体试验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="174.79" y="5874" width="126" height="49" as="geometry" />
+          <mxGeometry x="174.79" y="5916" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-93" value="验证后的&#xa;模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2093" y="5693" width="171" height="49" as="geometry" />
