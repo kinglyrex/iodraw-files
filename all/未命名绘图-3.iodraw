@@ -827,7 +827,7 @@
           <mxGeometry x="1475" y="5731" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-86" value="仿真模型&#xa;误差评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="685" y="5790" width="203" height="49" as="geometry" />
+          <mxGeometry x="371" y="5818" width="203" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-87" value="数据清理&#xa;与变换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="371" y="5916" width="188" height="49" as="geometry" />
@@ -859,11 +859,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-101" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-84" target="noGz0mHyxyK1vu1SElPC-85">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-102" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-87" target="noGz0mHyxyK1vu1SElPC-86">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
