@@ -934,7 +934,7 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.478;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-119" target="noGz0mHyxyK1vu1SElPC-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="noGz0mHyxyK1vu1SElPC-143" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="noGz0mHyxyK1vu1SElPC-143" value="指标参数" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="6125" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
