@@ -733,6 +733,11 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-47" target="noGz0mHyxyK1vu1SElPC-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="noGz0mHyxyK1vu1SElPC-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="749.166666666667" y="5293" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-47" value="故障状态复现" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="558" y="5263" width="120" height="60" as="geometry" />
         </mxCell>
