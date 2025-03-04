@@ -815,25 +815,25 @@
           <mxGeometry x="326" y="5595" width="910" height="393" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-82" value="试验&#xa;设计分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="395" y="5726" width="172" height="49" as="geometry" />
+          <mxGeometry x="364" y="5726" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-83" value="灵敏度&#xa;分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="602" y="5726" width="156" height="49" as="geometry" />
+          <mxGeometry x="571" y="5726" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-84" value="参数修正&#xa;(优化)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="781" y="5726" width="182" height="49" as="geometry" />
+          <mxGeometry x="750" y="5726" width="182" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-86" value="仿真模型&#xa;误差评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="520" y="5810" width="203" height="49" as="geometry" />
+          <mxGeometry x="489" y="5810" width="203" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-87" value="数据清理&#xa;与变换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="371" y="5916" width="188" height="49" as="geometry" />
+          <mxGeometry x="340" y="5916" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-88" value="逆向建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="604" y="5916" width="126" height="49" as="geometry" />
+          <mxGeometry x="573" y="5916" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-89" value="验证分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="971" y="5843" width="126" height="49" as="geometry" />
+          <mxGeometry x="940" y="5843" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-90" value="设计指标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="174.79000000000002" y="5731" width="125" height="49" as="geometry" />
@@ -845,13 +845,13 @@
           <mxGeometry x="174.79" y="5916" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-93" value="验证后的&#xa;模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2093" y="5693" width="171" height="49" as="geometry" />
+          <mxGeometry x="1271" y="5734" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-94" value="生成&#xa;验模报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1272" y="5910" width="170" height="49" as="geometry" />
+          <mxGeometry x="1271" y="5863" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-112" value="不确定性&#xa;分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="5726" width="172" height="49" as="geometry" />
+          <mxGeometry x="984" y="5726" width="172" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
