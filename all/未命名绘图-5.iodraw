@@ -992,10 +992,10 @@
           <mxGeometry x="-1362" y="1345" width="78" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-2" value="遥测数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-1082" y="1273" width="88" height="37" as="geometry" />
+          <mxGeometry x="-1090" y="1274" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-3" value="实时仿真数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-1082" y="1404" width="89" height="38" as="geometry" />
+          <mxGeometry x="-1090" y="1407" width="89" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-4" value="月球车实物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1276" y="1281" width="72" height="23" as="geometry" />
