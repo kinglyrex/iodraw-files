@@ -997,7 +997,7 @@
         <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-3" value="实时仿真数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="-1104" y="1407" width="89" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-4" value="月球车实物" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-4" value="月球车实物" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="-1276" y="1281" width="72" height="23" as="geometry" />
         </mxCell>
         <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-5" value="月球车模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
