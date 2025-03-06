@@ -988,7 +988,7 @@
         <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-2" value="遥测数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="-1077" y="1257" width="72" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-3" value="遥测数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-3" value="实时仿真数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="-1077" y="1382" width="72" height="45" as="geometry" />
         </mxCell>
       </root>
