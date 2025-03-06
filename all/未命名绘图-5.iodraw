@@ -992,10 +992,10 @@
           <mxGeometry x="-1362" y="1345" width="78" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-2" value="遥测数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-1110" y="1274" width="88" height="37" as="geometry" />
+          <mxGeometry x="-1104" y="1274" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-3" value="实时仿真数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-1110" y="1407" width="89" height="38" as="geometry" />
+          <mxGeometry x="-1104" y="1407" width="89" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-4" value="月球车实物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1276" y="1281" width="72" height="23" as="geometry" />
@@ -1004,16 +1004,16 @@
           <mxGeometry x="-1276" y="1410" width="72" height="23" as="geometry" />
         </mxCell>
         <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1197" y="1285.5" width="75" height="14" as="geometry" />
+          <mxGeometry x="-1191" y="1285.5" width="75" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-9" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1197" y="1414.5" width="75" height="14" as="geometry" />
+          <mxGeometry x="-1191" y="1414.5" width="75" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-10" value="在轨观测" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1192" y="1272" width="53" height="13" as="geometry" />
+          <mxGeometry x="-1186" y="1272" width="53" height="13" as="geometry" />
         </mxCell>
         <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-11" value="实时仿真" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1192" y="1401.5" width="53" height="13" as="geometry" />
+          <mxGeometry x="-1186" y="1401.5" width="53" height="13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
