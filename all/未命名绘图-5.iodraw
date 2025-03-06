@@ -1009,6 +1009,9 @@
         <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-9" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1177" y="1414.5" width="75" height="14" as="geometry" />
         </mxCell>
+        <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-10" value="在轨观测" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1168" y="1315" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
