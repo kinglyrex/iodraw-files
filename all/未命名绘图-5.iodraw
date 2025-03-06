@@ -992,10 +992,10 @@
           <mxGeometry x="-1091" y="1405" width="89" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-4" value="月球车实物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1249" y="1266" width="72" height="23" as="geometry" />
+          <mxGeometry x="-1229" y="1281" width="72" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-5" value="月球车实物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1229" y="1410" width="72" height="23" as="geometry" />
+        <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-5" value="月球车模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1229" y="1412.5" width="72" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
