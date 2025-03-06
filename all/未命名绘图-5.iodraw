@@ -989,7 +989,10 @@
           <mxGeometry x="-1091" y="1274" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-3" value="实时仿真数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-1077" y="1382" width="89" height="38" as="geometry" />
+          <mxGeometry x="-1091" y="1405" width="89" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Ci7Ev_yuNJ-w7wsszhSS-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1249" y="1266" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
