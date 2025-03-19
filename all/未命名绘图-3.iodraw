@@ -973,6 +973,9 @@
         <mxCell id="noGz0mHyxyK1vu1SElPC-155" value="实时仿真数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="6624" width="158" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="noGz0mHyxyK1vu1SElPC-156" value="月球车实物" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="227" y="6505" width="140" height="49" as="geometry" />
+        </mxCell>
         <mxCell id="noGz0mHyxyK1vu1SElPC-157" value="遥测数据未下传" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="442" y="6505" width="174" height="49" as="geometry" />
         </mxCell>
